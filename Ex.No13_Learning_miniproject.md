@@ -2,7 +2,8 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040160
 ### AIM: 
-To write a program to train the classifier for -----------------.
+To write a program to train the classifier for Diabetes Prediction.
+
 ###  Algorithm:
 
 1. Start the program.
@@ -86,6 +87,9 @@ app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','num
 ```
 
 ### Output:
+![image](https://github.com/hariharan2383/AI_Lab_2023-24/assets/117346668/b0ffe658-8079-4ddc-9c23-5176a661b53a)
+![image](https://github.com/hariharan2383/AI_Lab_2023-24/assets/117346668/56457c10-cf49-41cd-b383-608eb73c38b8)
+![image](https://github.com/hariharan2383/AI_Lab_2023-24/assets/117346668/0d8f0dc7-de04-4dc1-b492-3903b963cb9e)
 
 
 ### Result:
